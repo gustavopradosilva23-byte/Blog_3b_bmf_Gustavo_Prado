@@ -1,0 +1,13 @@
+:root{
+    --cor-primaria:#120eec;
+    --cor-secundaria:#f80101;
+    --cor-fundo:#000000;
+    --cor-texto:#ffffff;
+    --cor-contraste:#fffb00;
+    --cor-botao:#000000;
+}
+
+body{
+    max-width: 100vw;
+    font-family:'Gill Sans', 'Gill Sans MT'
+}
